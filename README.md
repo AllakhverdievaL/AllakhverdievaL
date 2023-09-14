@@ -9,7 +9,11 @@
 ### 
 
 ### Языки и инструменты:
-
+- Pyhton
+- SQL
+- Jupyter Notebook
+- DataLens
+- QGIS
 
 ### Связаться со мной:
   [<img width="40px" src="TG_Logo.svg">](https://t.me/lunnyy_den)     [<img width="40px" src="VK Logo.svg">](https://vk.com/leilaall)
