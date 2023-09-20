@@ -1,7 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="100"/>
-</div>
-
 ### Данный профиль создан для проектов по направлению Анализ данных 
 
 ## Репозитории:
