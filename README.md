@@ -1,9 +1,9 @@
 ### Данный профиль создан для проектов по направлению Анализ данных 
 
 ## Репозитории:
-- [__da_YP__](https://github.com/leilaall/da_YP):
+- [__DA_Practicum__](https://github.com/AllakhverdievaL/DA_Practicum):
   портфолио с проектами, выполненными во время учебы на курсе ЯндексПрактикума 
-- [__pet-projects__](https://github.com/leilaall/pet-projects/tree/main):
+- [__pet-projects__](https://github.com/AllakhverdievaL/pet-projects):
   репозиторий для размещения результатов реализации собственных идей или участия в некоммерческих проектах
 
 ### 
