@@ -15,6 +15,6 @@
 - DataLens
 - QGIS
 
-### Связаться со мной:
+### Связаться со мной можно по почте или в социальных сетях:
   [<img width="40px" src="TG_Logo.svg">](https://t.me/lunnyy_den)     [<img width="40px" src="VK Logo.svg">](https://vk.com/leilaall)
     
